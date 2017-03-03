@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Habit Tracker</string>
+    <string name="category_overview">Habit</string>
+    <string name="hint_pet_name">Type Habbit Here</string>
+    <string name="hint_pet_breed">Time of Day</string>
+    <string name="difficulty_Hard">HARD</string>
+    <string name="difficulty_Medium">MEDIUM</string>
+    <string name="difficulty_Easy">EASY</string>
+    <string name="editor_activity_title_new_habit">Add a Habit</string>
+</resources>
